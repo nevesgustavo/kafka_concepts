@@ -1,0 +1,10 @@
+# GoLand-specific
+.idea/
+*.docker/
+*.iml
+
+# Compiled files
+*.out
+
+# Dependency directories
+vendor/
